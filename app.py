@@ -3,7 +3,7 @@ import streamlit as st
 
 ran_once = False
 
-st.set_page_config(page_title="Time Complexity Calculator")
+st.set_page_config(page_title="Time Complexity Calculator Streamlit App")
 
 
 # function call 
