@@ -74,6 +74,8 @@ def get_stuff_printed(result):
 
 st.header("Time Complexity Calculator", anchor=False)
 
+st.write("Use AI to calculate time complexity of your code")
+
 st.divider()
 
 message_txt = st.text_area(
